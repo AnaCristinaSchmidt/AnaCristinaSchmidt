@@ -81,8 +81,6 @@ Before transitioning into technology, I worked in education, where I developed s
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 ### 🤖 DevSpecAI
 AI-assisted platform for software specification using **Clean Architecture**, **.NET**, **React**, and **REST APIs**.
 
