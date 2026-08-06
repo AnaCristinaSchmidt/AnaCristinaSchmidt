@@ -3,7 +3,7 @@ Hi 👋 I'm Ana Cristina Schmidt
 </h1>
 
 <h3 align="center">
-Software Developer • Information Systems Student @ PUCRS
+Software Developer | Information Systems Student @ PUCRS
 </h3>
 
 <p align="center">
@@ -24,11 +24,13 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
 
 # 👩 About Me
 
-🎓 Information Systems student at **PUCRS**, graduating in **2026**, currently transitioning into a Software Development career.
+# 👩 About Me
+
+🎓 I'm an Information Systems student at **PUCRS**, expected to graduate in **2026**, currently transitioning into a Software Development career.
 
 💻 Passionate about **Back-end Development**, **Software Engineering**, **Artificial Intelligence**, and building scalable applications using modern technologies.
 
-🚀 Hands-on experience with **Java**, **Spring Boot**, **.NET**, **React**, **REST APIs**, **SQL databases**, software testing, and Agile methodologies through academic and real-world projects.
+🚀 Hands-on experience developing **REST APIs**, **full-stack applications**, **SQL databases**, and software solutions using **Java**, **Spring Boot**, **.NET**, and **React** through academic and real-world projects.
 
 Before transitioning into technology, I worked in education, where I developed strong communication, collaboration, leadership, and analytical thinking skills that I now bring to software development teams.
 
