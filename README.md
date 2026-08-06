@@ -22,11 +22,9 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
 
 ---
 
-# 👩 About Me
+# About Me
 
-# 👩 About Me
-
-🎓 I'm an Information Systems student at **PUCRS**, expected to graduate in **2026**, currently transitioning into a Software Development career.
+🎓 I'm an Information Systems student at **PUCRS**, pursuing a **Data Science Certificate**, with an expected graduation in **2026**.
 
 💻 Passionate about **Back-end Development**, **Software Engineering**, **Artificial Intelligence**, and building scalable applications using modern technologies.
 
