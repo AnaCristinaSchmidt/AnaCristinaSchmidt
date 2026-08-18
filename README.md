@@ -1,9 +1,9 @@
-<h3 align="center">
-Hi 👋 I'm Ana Cristina Schmidt
-</h3>
+<h1 align="center">
+👋 Olá, eu sou a Ana Cristina Schmidt!
+</h1>
 
 <h3 align="center">
-Software Developer | Information Systems Student @ PUCRS
+Desenvolvedora de Software | Estudante de Sistemas de Informação na PUCRS
 </h3>
 
 <p align="center">
