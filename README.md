@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
 Hi 👋 I'm Ana Cristina Schmidt
-</h1>
+</h3>
 
 <h3 align="center">
 Software Developer | Information Systems Student @ PUCRS
@@ -20,9 +20,7 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
   </a>
 </p>
 
----
-
-# 👩 Sobre Mim
+###  👩 Sobre Mim
 
 🎓 Sou estudante de **Sistemas de Informação** na **PUCRS**, cursando a **Certificação em Ciência de Dados**, com conclusão prevista para **2026**.
 
@@ -32,9 +30,7 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
 
 🤝 Minha experiência na educação fortaleceu habilidades de comunicação, colaboração, liderança e pensamento analítico, que hoje aplico no desenvolvimento de software.
 
----
-
-# 🛠️ Tecnologias
+### 🛠️ Tecnologias
 
 ### 💻 Backend
 <p>
@@ -66,9 +62,7 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
-
-# 🚀 Projetos em Destaque
+### 🚀 Projetos em Destaque
 
 🤖 **DevSpecAI**  
 Plataforma para especificação de software assistida por Inteligência Artificial.
@@ -81,9 +75,3 @@ Aplicação Web desenvolvida com .NET e React.
 
 📊 **Data Science Projects**  
 Projetos de Machine Learning, Análise de Dados e Inteligência Artificial.
-
----
-
-<p align="center">
-💡 <strong>Sempre aprendendo. Sempre construindo. Sempre evoluindo.</strong>
-</p>
