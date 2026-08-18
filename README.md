@@ -6,8 +6,8 @@
 Desenvolvedora de Software | Estudante de Sistemas de Informação na PUCRS
 </h3>
 
-<p align="center">
-Building scalable software with <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>.NET</strong>, <strong>React</strong> and <strong>Artificial Intelligence</strong>.
+<<p align="center">
+Construindo soluções com <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>.NET</strong>, <strong>React</strong> e <strong>Inteligência Artificial</strong>.
 </p>
 
 <p align="center">
