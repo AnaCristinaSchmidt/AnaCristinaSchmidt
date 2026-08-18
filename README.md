@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
 👋 Olá, eu sou a Ana Cristina Schmidt!
-</h1>
+</h3>
 
 <h3 align="center">
 Desenvolvedora de Software | Estudante de Sistemas de Informação na PUCRS
