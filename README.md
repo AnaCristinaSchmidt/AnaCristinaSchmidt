@@ -22,54 +22,43 @@ Building scalable software with <strong>Java</strong>, <strong>Spring Boot</stro
 
 ---
 
-# About Me
+# 👩 Sobre Mim
 
-🎓 I'm an Information Systems student at **PUCRS**, pursuing a **Data Science Certificate**, with an expected graduation in **2026**.
+🎓 Sou estudante de **Sistemas de Informação** na **PUCRS**, cursando a **Certificação em Ciência de Dados**, com conclusão prevista para **2026**.
 
-💻 Passionate about **Back-end Development**, **Software Engineering**, **Artificial Intelligence**, and building scalable applications using modern technologies.
+💻 Estou em transição de carreira para a área de tecnologia, com foco em **Desenvolvimento Back-end**, **Full Stack**, **Inteligência Artificial** e **Engenharia de Software**.
 
-🚀 Hands-on experience developing **REST APIs**, **full-stack applications**, **SQL databases**, and software solutions using **Java**, **Spring Boot**, **.NET**, and **React** through academic and real-world projects.
+🚀 Desenvolvo projetos utilizando **Java**, **Spring Boot**, **.NET**, **React**, **APIs REST**, bancos de dados relacionais e metodologias ágeis.
 
-Before transitioning into technology, I worked in education, where I developed strong communication, collaboration, leadership, and analytical thinking skills that I now bring to software development teams.
+🤝 Minha experiência na educação fortaleceu habilidades de comunicação, colaboração, liderança e pensamento analítico, que hoje aplico no desenvolvimento de software.
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Tecnologias
 
 ### 💻 Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs,nodejs"/>
+<img src="https://skillicons.dev/icons?i=java,spring,dotnet,cs"/>
 </p>
 
 ### 🎨 Frontend
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,ts,js,html,css"/>
 </p>
 
-### 🗄️ Databases
-
+### 🗄️ Banco de Dados
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/>
 </p>
 
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-### ☁️ Cloud & DevOps
-
+### ☁️ DevOps
 <p>
-<img src="https://skillicons.dev/icons?i=docker,aws,git,github"/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,aws"/>
 </p>
 
-### 🛠️ Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman"/>
-</p>
-
-### 🤖 AI & Data
-
+### 🤖 IA & Dados
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
@@ -79,28 +68,22 @@ Before transitioning into technology, I worked in education, where I developed s
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Projetos em Destaque
 
-### 🤖 DevSpecAI
-AI-assisted platform for software specification using **Clean Architecture**, **.NET**, **React**, and **REST APIs**.
+🤖 **DevSpecAI**  
+Plataforma para especificação de software assistida por Inteligência Artificial.
 
-**Tech Stack:** .NET • React • Docker • PostgreSQL • Clean Architecture
+☕ **Java REST API**  
+API REST desenvolvida com Java, Spring Boot e PostgreSQL.
 
----
+💻 **Full Stack Application**  
+Aplicação Web desenvolvida com .NET e React.
 
-### ☕ Java REST API
-RESTful API built with **Java**, **Spring Boot**, and **PostgreSQL**, following software engineering best practices.
-
----
-
-### 💻 Full Stack Application
-Modern web application developed with **.NET**, **React**, and **SQL Server**, focusing on scalability, clean architecture, and user experience.
+📊 **Data Science Projects**  
+Projetos de Machine Learning, Análise de Dados e Inteligência Artificial.
 
 ---
 
-### 📊 Data Science Projects
-Machine Learning, Data Analysis, Data Visualization, and Artificial Intelligence projects developed with **Python**, **Pandas**, and **Scikit-learn**.
-
----
-
-> 💡 **Always learning. Always building. Always improving.**
+<p align="center">
+💡 <strong>Sempre aprendendo. Sempre construindo. Sempre evoluindo.</strong>
+</p>
