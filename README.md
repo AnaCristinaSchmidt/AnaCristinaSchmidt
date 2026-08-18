@@ -6,7 +6,7 @@
 Desenvolvedora de Software | Estudante de Sistemas de Informação na PUCRS
 </h3>
 
-<<p align="center">
+<p align="center">
 Construindo soluções com <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>.NET</strong>, <strong>React</strong> e <strong>Inteligência Artificial</strong>.
 </p>
 
